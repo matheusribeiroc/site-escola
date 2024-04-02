@@ -7,10 +7,10 @@
     color: white;  
     display: flex;
     justify-content: space-around;
-    padding: 24px 0;
+    padding: 300px 0;
   }
   .cabecalho-imagem{
-    width:50%;
+    width:300%;
   }
   .cabecalho-lista-item{
     display: inline-block;
