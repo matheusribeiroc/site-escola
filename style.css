@@ -22,12 +22,12 @@
     width: 25%;
   }
   .escola{
-    background-image: linear-gradient(#444756, #4EBFE9);
+    background-image: linear-gradient(#434a6b, #4EBFE9);
     color: white;
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 24px 0;
+    padding: 50px 0;
   }
   .escola-conteudo{
     width: 35%;
