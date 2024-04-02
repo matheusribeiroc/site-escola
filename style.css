@@ -22,7 +22,7 @@
     width: 25%;
   }
   .escola{
-    background-image: linear-gradient(#383D58, #4EBFE9);
+    background-image: linear-gradient(#444756, #4EBFE9);
     color: white;
     display: flex;
     justify-content: center;
@@ -46,7 +46,7 @@
   }
   .estudante-todos{
     display: grid;
-    grid-template-columns: 20% 20% 20% 20%;
+    grid-template-columns: 30% 20% 30%;
   }
   .footer{
     background-color: black;
